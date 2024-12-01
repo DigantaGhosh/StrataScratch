@@ -1,6 +1,6 @@
 # StrataScratch
 
-Documenting my journey to SQL. Been out of touch for a while.
+This repository contains my SQL solutions to various data problems from StrataScratch. It's a great resource for anyone looking to improve their SQL skills and learn from real-world examples.
 
 |Question ID|Question Link | Problem | Difficulty | Solution|
 |-----------|--------------|---------|------------|---------|
